@@ -8,8 +8,11 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
+/// <summary>
+/// 测试
+/// </summary>
 namespace WebSocketServer
-{
+{    
     class Program
     {
         static string byte_to_string(byte[] b)
